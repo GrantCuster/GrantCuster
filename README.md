@@ -1,3 +1,4 @@
-## About
+Designer-programmer interested in experimental creative interfaces. Going out on a limb.
 
-Going out on a limb. Creative interface experiments at [Constraint Systems](http://constraint.systems). ML prototypes at [Cloudera Fast Forward](http://blog.fastforwardlabs.com). Linux user. Foster parent. He/they.
+## Links
+- [Constraint Systems](https://constraint.systems) - experimental interfaces for creating and editing images and text
